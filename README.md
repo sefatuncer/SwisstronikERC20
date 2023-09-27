@@ -17,7 +17,7 @@ This repository contains a Solidity-based ERC20 token smart contract deployed on
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/sefatuncer/SwisstronikERC20.git` 
+git clone https://github.com/sefatuncer/SwisstronikERC20.git
 ```
 
 ### Prerequisites
@@ -58,4 +58,4 @@ To retrieve the stored message using the `getMessage` function, run the `getMess
 
 ## License
 
-This project is licensed under the MIT License. See the 'LICENSE' file for more details.
+This project is licensed under the MIT License.
